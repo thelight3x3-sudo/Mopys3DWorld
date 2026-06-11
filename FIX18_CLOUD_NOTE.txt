@@ -1,0 +1,4 @@
+FIX18 CLOUD BUILD:
+Converted the Termux manual build project into a normal Android Gradle project with GitHub Actions.
+The slow shader ray-marched lighting is disabled for practical mobile FPS.
+Use .github/workflows/android-build.yml to build the APK in GitHub cloud.

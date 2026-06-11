@@ -1,0 +1,25 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.mopys.world3d'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.mopys.world3d'
+        minSdk 23
+        targetSdk 35
+        versionCode 18
+        versionName '1.18-cloud'
+    }
+
+    buildTypes {
+        debug {
+            debuggable true
+        }
+        release {
+            minifyEnabled false
+        }
+    }
+}

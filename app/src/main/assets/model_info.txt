@@ -1,0 +1,9 @@
+Generated from uploaded chibi_avatar_3d_all_models_beautiful_package.zip
+Runtime player model: chibi_avatar_beautiful_3d_model.obj (volumetric sculpted mesh)
+Source OBJ vertices: 63505
+Source OBJ triangles: 124322
+Runtime mesh vertices: 372966
+Original OBJ bounds x/y/z: [-1.26918949, -1.06799589, -0.232] to [1.26918949, 0.96893917, 4.41111802]
+Scale baked into runtime mesh: 0.633195
+Coordinate conversion: OBJ Z-up/front negative-Y -> Android Y-up/front +Z
+Format: big-endian int vertexCount, then vertexCount records of 9 floats: x,y,z,nx,ny,nz,r,g,b
